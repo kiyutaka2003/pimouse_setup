@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by T Ando
+#Written by TA
 
 exec 2> /tmp/setup.log
 
